@@ -22,6 +22,20 @@ DerivedData
 *.xcuserstate
 **/.xcode.env.local
 
+# React Native
+node_modules/
+android/.gradle
+android/app/build/
+ios/Pods
+ios/build/
+*.log
+*.keystore
+.env
+*.iml
+.idea/
+.DS_Store
+
+
 # Android/IntelliJ
 #
 build/
