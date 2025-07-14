@@ -15,7 +15,7 @@ module.exports = function (api) {
             '@components': './source/components',
             '@unistyles': './source/unistyles',
             '@services': './source/services',
-            '@states': './source/states',
+            '@state': './source/state',
             '@utils': './source/utils',
           },
         },

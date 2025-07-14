@@ -15,6 +15,7 @@ export const homeStyles = createStyleSheet(({ colors, device, border }) => ({
     topHeader: {
         zIndex: 1,
         alignSelf: 'center',
+        justifyContent: 'center',
         paddingHorizontal: 10,
     },
     animatedText: {
